@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pandora.App", "Pandora.App\Pandora.App.csproj", "{B28CF6B0-8DD6-48F5-82DE-12B69C1D4B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28CF6B0-8DD6-48F5-82DE-12B69C1D4B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28CF6B0-8DD6-48F5-82DE-12B69C1D4B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28CF6B0-8DD6-48F5-82DE-12B69C1D4B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28CF6B0-8DD6-48F5-82DE-12B69C1D4B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1644695-628B-4EAA-8F42-C9141FAD34B5}
+	EndGlobalSection
+EndGlobal
